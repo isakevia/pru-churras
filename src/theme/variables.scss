@@ -234,3 +234,21 @@
     --ion-card-background: #1e1e1e;
   }
 }
+
+:root {
+	--ion-color-azul: #366487;
+	--ion-color-azul-rgb: 54,100,135;
+	--ion-color-azul-contrast: #ffffff;
+	--ion-color-azul-contrast-rgb: 255,255,255;
+	--ion-color-azul-shade: #305877;
+	--ion-color-azul-tint: #4a7493;
+}
+
+.ion-color-azul {
+	--ion-color-base: var(--ion-color-azul);
+	--ion-color-base-rgb: var(--ion-color-azul-rgb);
+	--ion-color-contrast: var(--ion-color-azul-contrast);
+	--ion-color-contrast-rgb: var(--ion-color-azul-contrast-rgb);
+	--ion-color-shade: var(--ion-color-azul-shade);
+	--ion-color-tint: var(--ion-color-azul-tint);
+}
