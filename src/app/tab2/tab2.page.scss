@@ -1,5 +1,31 @@
-ion-col {
-  margin-right: 2px;
-  margin-left: 2px;
+.botao {
+  margin-right: 40px;
+  margin-left: 60px;
   text-align: center;
+}
+
+ion-toolbar {
+  text-align: center;
+}
+
+ion-button {
+  width: 45px;
+  height: 45px;
+  margin-bottom: 10px;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+.limpar {
+  margin-left: 0px;
+  margin-right: 100px;
+  width: 100%;
+  height: 6%;
+}
+
+.btn {
+  margin-left: 95px;
+  margin-right: 50px;
+  width: 50%;
+  height: 6%;
 }
