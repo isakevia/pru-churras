@@ -55,7 +55,6 @@ export class Tab2Page {
 
     if (this.pontuacao1 >= 1) {
       this.pontuacao1 -= 1
-
     }
 
   }
